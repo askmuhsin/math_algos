@@ -7,6 +7,7 @@ python is_prime.py 17
 python kaprekar_seq.py 1203
 python nearestPrime.py 6174
 python prime_report.py 1729
+python nth_fibonacci 10
 ```
 
 ### Learn about :
