@@ -1,13 +1,13 @@
 ##### usage sample
 
 ```
-python factorize.py 125
-python gcd_cal.py 3654 672
-python is_prime.py 17
+python prime_report.py 1729
 python kaprekar_seq.py 1203
 python nearestPrime.py 6174
-python prime_report.py 1729
+python gcd_cal.py 3654 672
+python factorize.py 125
 python nth_fibonacci 10
+python is_prime.py 17
 ```
 
 ### Learn about :
