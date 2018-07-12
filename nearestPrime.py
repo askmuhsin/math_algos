@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 
 import sys
-from math import inf
 
 num_chk = None
 if len(sys.argv)>1:
